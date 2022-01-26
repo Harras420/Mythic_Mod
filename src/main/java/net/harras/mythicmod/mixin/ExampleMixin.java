@@ -1,6 +1,6 @@
-package net.harras.mythic_mod.mixin;
+package net.harras.mythicmod.mixin;
 
-import net.harras.mythic_mod.MythicMod;
+import net.harras.mythicmod.MythicMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

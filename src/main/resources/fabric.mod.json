@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "mythic_mod",
+  "id": "mythicmod",
   "version": "${version}",
 
   "name": "Mythic Mod",
@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.harras.mythic_mod.MythicMod"
+      "net.harras.mythicmod.MythicMod"
     ]
   },
   "mixins": [
-    "mythic_mod.mixins.json"
+    "mythicmod.mixins.json"
   ],
 
   "depends": {
