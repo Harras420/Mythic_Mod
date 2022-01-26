@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": { "model": "mythicmod:block/mythic_block" }
+    "": {
+      "model": "mythicmod:block/mythic_block"
+    }
   }
 }
